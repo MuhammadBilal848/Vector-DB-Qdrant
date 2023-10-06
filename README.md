@@ -1,2 +1,2 @@
 # Vector-DB-Qdrant
-Contains me own written module to use vector database qdrant.
+It contains my own written module to use vector database qdrant.
